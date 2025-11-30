@@ -1,4 +1,3 @@
-# Kotlin-Android_development-
 # Kotlin & Android Development Practice 🚀
 
 This repository contains all my Kotlin and Android development practice programs.  
